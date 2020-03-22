@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_text">Type something for</string>
+    <string name="default_text">Custom Component</string>
+</resources>
